@@ -20,7 +20,7 @@ Before starting the instructions below, please make sure you have [Node.js](http
 
 ## Resources
 
-[Webpack Concepts](https://webpack.js.org/concepts/)
-[Django documentation](https://docs.djangoproject.com/en/4.0/)
-[HtmlWebpackPlugin](https://webpack.js.org/plugins/html-webpack-plugin/)
-[jantimon/html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin)
+[Webpack Concepts](https://webpack.js.org/concepts/)<br>
+[Django documentation](https://docs.djangoproject.com/en/4.0/)<br>
+[HtmlWebpackPlugin](https://webpack.js.org/plugins/html-webpack-plugin/)<br>
+[jantimon/html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin)<br>
