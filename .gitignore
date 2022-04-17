@@ -1,0 +1,9 @@
+__pycache__
+db.sqlite3
+
+env/
+node_modules/
+server/static/server/*
+!server/static/server/.gitkeep
+server/templates/server/*
+!server/templates/server/.gitkeep
